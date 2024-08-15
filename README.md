@@ -65,7 +65,7 @@ Beiträge, Probleme und Feature-Anfragen sind willkommen. Schauen Sie gerne auf 
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Kontakt
-Ihr Name - ihre.email@beispiel.com
+ghoolio - ghoolio@abcdy.de
 
 Projekt-Link: [https://github.com/ghoolio/quiz-automation-bot](https://github.com/IhrBenutzername/quiz-automation-bot)
 
