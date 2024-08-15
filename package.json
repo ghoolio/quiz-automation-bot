@@ -1,0 +1,33 @@
+{
+  "name": "quiz-automation-example",
+  "version": "1.0.0",
+  "description": "An example project demonstrating web automation for online quizzes",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "automation",
+    "puppeteer",
+    "google-sheets",
+    "quiz"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "googleapis": "^92.0.0",
+    "puppeteer": "^13.0.0",
+    "puppeteer-extra": "^3.2.3",
+    "puppeteer-extra-plugin-stealth": "^2.9.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.6.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.4"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
